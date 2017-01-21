@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonValue;
 /**
  * Enumeration of REST Error types.
  * 
- * @author vladimir.stankovic
+ * @author pratikaambani
  *
  *         Aug 3, 2016
  */
